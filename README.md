@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @milenadilly and I’m interested in QA and Data.
-- 🌱 Right now I’m currently learning QA techniques, in order to improve my skills and maybe land a new job in this area.
+- 👋 Hi, I’m @milenadilly and I’m interested in Data and Machine Learning.
+- 🌱 
 - 📫 How to reach me:
 Instagram: @milenadilly
 E-mail: milenadilly@outlook.com
