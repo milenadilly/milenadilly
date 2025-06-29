@@ -7,7 +7,7 @@ With over 8 years of experience in Customer Success and Recruiting, I've helped 
 
 ## My current journey
 
-I'm currently transitioning into software development, focusing on **Python** — a powerful and versatile language that enables me to create practical and innovative solutions.  
+I'm currently transitioning into software development, focusing on **FrontEnd (HTML, CSS, JavaScript, React) and BackEnd (Python)** — powerful and versatile languages that enables me to create practical and innovative solutions.  
 
 My goal is to combine my business and customer-facing experience with technical skills to build impactful products.
 
@@ -15,8 +15,9 @@ My goal is to combine my business and customer-facing experience with technical 
 
 ## Skills and competencies
 
-- Customer Success & Recruiting  
-- Python Development (basics, automation, APIs)  
+- Customer Success & Recruiting
+- FrontEnd Development (HTML, CSS, JavaScript & React)
+- Python Development  
 - Multilingual: Portuguese (native), English (fluent), French, Spanish, Italian, and German (intermediate)  
 - Clear communication and empathy  
 - Continuous learning and adaptability
@@ -25,7 +26,7 @@ My goal is to combine my business and customer-facing experience with technical 
 
 ## Projects
 
-Here you'll find my Python projects, ranging from simple games to automation and data analysis tools. Each project represents a step in my growth and learning journey in tech.
+Here you'll find some of my projects, ranging from simple webpages and games to automation and data analysis tools. Each project represents a step in my growth and learning journey in tech.
 
 ---
 
