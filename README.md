@@ -1,41 +1,35 @@
-# Hi there! I'm Milena Dilly 👋
+# 👋 Hey! I'm Milena — a career switcher diving headfirst into the world of **DevOps** and **Python development**, driven by curiosity, consistency, and the thrill of building systems that work beautifully.
 
-I'm a multilingual professional passionate about connecting people and technology.  
-With over 8 years of experience in Customer Success and Recruiting, I've helped companies find top talent and build strong client relationships.
+💻 Currently focused on:
+- **Linux fundamentals** and terminal fluency  
+- **Shell scripting** for automations and infrastructure tasks  
+- **Git and GitHub** for version control and collaboration  
+- **CI/CD** pipelines (GitHub Actions, Jenkins coming soon)  
+- **Containerization** with Docker and orchestration with Kubernetes  
+- **Cloud fundamentals** with AWS  
+- **Python scripting** for backend logic and automation  
+- **Infrastructure as Code** with Terraform and Ansible
 
----
+🚀 Projects in progress:
+- `script-backup`: automated backup with Shell and crontab  
+- `devops-journey`: my full learning roadmap + labs + notes  
+- Python mini-projects: CLI tools, automation scripts, and data wrangling
 
-## My current journey
+📚 Platforms I’m learning from:
+- Udemy (DevOps: Automação sem Enrolação)  
+- DIO | Danki Code | 100 Days of Python Bootcamp  
+- Docs, blogs, RFCs and real-world practice
 
-I'm currently transitioning into software development, focusing on **FrontEnd (HTML, CSS, JavaScript, React) and BackEnd (Python)** — powerful and versatile languages that enables me to create practical and innovative solutions.  
-
-My goal is to combine my business and customer-facing experience with technical skills to build impactful products.
-
----
-
-## Skills and competencies
-
-- Customer Success & Recruiting
-- FrontEnd Development (HTML, CSS, JavaScript & React)
-- Python Development  
-- Multilingual: Portuguese (native), English (fluent), French, Spanish, Italian, and German (intermediate)  
-- Clear communication and empathy  
-- Continuous learning and adaptability
-
----
-
-## Projects
-
-Here you'll find some of my projects, ranging from simple webpages and games to automation and data analysis tools. Each project represents a step in my growth and learning journey in tech.
+🔗 Links:
+- 📂 Portfolio in progress:https://github.com/milenadilly    
+- 💼 LinkedIn: https://linkedin.com/in/dillymilena
 
 ---
 
-## Let's connect!
+⚙️ My tools so far:  
+`Linux` • `Shell` • `Git` • `GitHub` • `Markdown` • `Docker` • `Python` • `CI/CD` • `VS Code` • `WSL2`  
+☁️ Learning next: `AWS` • `Kubernetes` • `Terraform` • `Ansible`
 
-I'm open to collaborations, mentorship, and opportunities to grow as a developer.  
+📌 Currently open to **Junior DevOps** or **Technical Support/Infra** roles where I can apply my skills, learn fast, and contribute from day one.
 
-📫 Get in touch: milenadilly@outlook.com | https://www.linkedin.com/in/dillymilena
-
----
-
-*"Learning is the only thing the mind never exhausts, never fears, and never regrets." – Leonardo da Vinci*
+Let’s build something reliable together.
