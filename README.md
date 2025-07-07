@@ -1,35 +1,37 @@
-# 👋 Hey! I'm Milena — a career switcher diving headfirst into the world of **DevOps** and **Python development**, driven by curiosity, consistency, and the thrill of building systems that work beautifully.
+# 👩‍💻 Milena Dilly
 
-💻 Currently focused on:
-- **Linux fundamentals** and terminal fluency  
-- **Shell scripting** for automations and infrastructure tasks  
-- **Git and GitHub** for version control and collaboration  
-- **CI/CD** pipelines (GitHub Actions, Jenkins coming soon)  
-- **Containerization** with Docker and orchestration with Kubernetes  
-- **Cloud fundamentals** with AWS  
-- **Python scripting** for backend logic and automation  
-- **Infrastructure as Code** with Terraform and Ansible
+🎯 Front-End Developer Jr | JavaScript | React | HTML & CSS | Clean Code & UI Thinking
 
-🚀 Projects in progress:
-- `script-backup`: automated backup with Shell and crontab  
-- `devops-journey`: my full learning roadmap + labs + notes  
-- Python mini-projects: CLI tools, automation scripts, and data wrangling
+Hi! I’m Milena — a front-end developer passionate about building user-centric, responsive, and accessible web applications. With a background in Customer Success and tech-driven process optimization, I bring an analytical mindset and a strong eye for usability to everything I build.
 
-📚 Platforms I’m learning from:
-- Udemy (DevOps: Automação sem Enrolação)  
-- DIO | Danki Code | 100 Days of Python Bootcamp  
-- Docs, blogs, RFCs and real-world practice
+Currently focused on deepening my front-end stack with JavaScript (ES6+), React, Git and CSS architecture. I'm building practical projects and interfaces that solve real-world problems and deliver value through clean, intuitive design.
 
-🔗 Links:
-- 📂 Portfolio in progress:https://github.com/milenadilly    
-- 💼 LinkedIn: https://linkedin.com/in/dillymilena
+## 🚀 Front-End Projects
+
+- **To-Do App (React)** → [link]
+- **Weather Dashboard (JS + API)** → [link]
+- **Portfolio Website** → [link]
+- *(more projects coming soon)*
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
+
+## 🔍 In Progress
+
+Currently building new projects in React and applying best practices in UI/UX, accessibility, and version control.
+
+## 📁 Other Projects
+
+You’ll also find earlier projects in Python and DevOps — part of my broader tech journey and continuous learning mindset.
 
 ---
 
-⚙️ My tools so far:  
-`Linux` • `Shell` • `Git` • `GitHub` • `Markdown` • `Docker` • `Python` • `CI/CD` • `VS Code` • `WSL2`  
-☁️ Learning next: `AWS` • `Kubernetes` • `Terraform` • `Ansible`
-
-📌 Currently open to **Junior DevOps** or **Technical Support/Infra** roles where I can apply my skills, learn fast, and contribute from day one.
-
-Let’s build something reliable together.
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dillymilena/)  
+📌 Portfolio coming soon!
