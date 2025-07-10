@@ -1,21 +1,18 @@
-# 👋 Hi, I’m Milena Dilly
+# Hi! I'm Milena, a passionate professional transitioning into Tech, currently focused on Quality Assurance (QA) – with strong foundations in logic, web technologies, and user experience.
 
-## I'm a Front-End Developer in progress, focused on JavaScript and React, and passionate about building clean, responsive, and accessible web interfaces.
+## 🎓 Background:
+- Law degree and 8+ years of experience in Customer Success and team management.
+- Deep understanding of business, communication, and end-to-end customer experience.
+- Strong attention to detail and critical thinking — essential skills for quality analysis.
 
-### 💻 Right now, I'm:
-- Studying modern front-end development with B7 Web (JS, React, APIs)
-- Working on personal projects to apply concepts in practice
-- Refactoring old code and improving component structure
-- Learning testing and accessibility step by step
+## 🧪 Currently learning and practicing:
+- Manual testing fundamentals (test cases, bug reporting, exploratory testing)
+- Python basics for logic and automation
+- Tools like Jira, Git, and GitHub
 
-### 🚀 Coming from a background in Customer Success, I bring:
-- Strong communication with teams and stakeholders
-- Attention to detail and process thinking
-- A user-first mindset in everything I build
+## 🚀 Career goal:
+To become a strong Junior QA Analyst in a remote-first team, where I can grow, contribute, and help deliver high-quality digital products.
 
-### 📌 Tech stack in focus:
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, Git, GitHub
-- UI/UX basics, Clean Code, Agile
+📌 This profile documents my journey into QA – with weekly commits, projects, and practical exercises.
 
-🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/dillymilena) and build meaningful solutions together!
+Let's build better software together!
