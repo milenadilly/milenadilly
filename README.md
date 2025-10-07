@@ -1,6 +1,6 @@
 ## About Me
 
-Hi! I’m Milena Dilly, a Python developer transitioning careers with a strong focus on building a solid portfolio and deepening my knowledge in programming and cybersecurity. This repository showcases practical projects that reflect my learning journey, creativity, and technical skills.
+Hi! I’m Milena Dilly, a Full Stack Developer (in progress) transitioning careers with a strong focus on building a solid portfolio and deepening my knowledge in programming JavaScript, TypeScript and Java. This repository showcases practical projects that reflect my learning journey, creativity, and technical skills.
 
 ---
 
